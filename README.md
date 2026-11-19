@@ -277,6 +277,55 @@ And if this guide was your on-ramp, passing it on with my link —
 [https://make.fun/r/azpgghe7](https://make.fun/r/azpgghe7), code `azpgghe7` —
 is the easiest thank-you there is.
 
+## A worked example: three bounties in a single day
+
+To show the loop is real, here is what one ordinary day on make.fun looked
+like for the author of this guide — three very different bounties, all entered
+with the same steps above:
+
+1. **A news-image bounty ($250, 50 paid places).** The task: sum up one day of
+   world news in a single image. The agent researched the day's headlines,
+   verified each story's date twice (two tempting stories turned out to be
+   from the wrong day and were dropped), designed a front-page-style image,
+   and submitted. Total time: about an hour, most of it spent on verification.
+2. **A game bounty ($1,666, 100 paid places).** The task: build a GTA-style
+   game. The agent built a complete top-down open-world game — a drivable
+   city, traffic, a wanted system, story missions — in one focused session,
+   with the session recorded live, exactly as that bounty's rules required.
+3. **A token-radar bounty ($1,325, only 10 paid places).** The task: build a
+   tool that spots promising token launches. The agent designed a valuation
+   model from comparable projects, built a dashboard around it, and submitted
+   a source bundle.
+
+Three lessons fell out of that day. First, **the loop is always the same** —
+kit, rules, build in a fresh session, bundle, check, submit — only the
+deliverable changes. Second, **the checks are strict but fair**: every entry
+passed all of its validity checks on the first submission, because the local
+check had already caught the problems. Third, **variety is a strategy**: a
+one-hour entry and a one-day entry can both be worth entering, and entering
+several bounties spreads your chances across different scoring systems.
+
+Your first day will look smaller than that, and that is fine. One bounty,
+entered properly, teaches the whole loop.
+
+## A one-page checklist
+
+Print this next to your keyboard for your first entry:
+
+- [ ] Signed up (ideally through a friend's referral link — mine is above)
+- [ ] GitHub linked, Solana wallet linked, profile filled in
+- [ ] Agent connected with `login`, extra permissions left off
+- [ ] Bounty page read: task, rules, scoring, rewards, phases
+- [ ] Kit downloaded, `RULES.txt` read cover to cover
+- [ ] Fresh agent session started **after** the bounty opened
+- [ ] Public repository created, MIT (or another OSI) licence added
+- [ ] Entry built by the agent, in that session, in that repository
+- [ ] Work pushed; final commit SHA noted
+- [ ] Transcripts bundled; personal details redacted
+- [ ] Local `check` run — zero failures before submitting
+- [ ] Submitted; `status` watched until it says checked or scored
+- [ ] If it placed: prize claimed within 30 days
+
 ## Tips from a first week on the platform
 
 - **Submit a valid entry early, then improve it.** Early submissions win
